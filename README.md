@@ -14,5 +14,3 @@ Deployement Link -- https://team-titans-react.vercel.app
 ![backend-addproduct](https://user-images.githubusercontent.com/30699194/224843967-3485754d-feb1-4aab-8dc5-5d646d0c068a.png)
 ![backend-addcategory](https://user-images.githubusercontent.com/30699194/224844832-bfd283e2-6fe3-46e6-a900-e261ed872c93.png)
 ![backend-addedcategory](https://user-images.githubusercontent.com/30699194/224845070-62fb1f9d-c070-4d1b-be6b-9c64e742bf2a.png)
-<img width="1280" alt="image" src="https://user-images.githubusercontent.com/2765147/233246865-fa46040e-5578-4bb3-ab57-542d76ccd9e1.png">
-<img width="1280" alt="image" src="https://user-images.githubusercontent.com/2765147/233246917-b7ea1cb6-bf7e-4792-bca3-ccd4e8c01b64.png">
