@@ -58,8 +58,10 @@ const Header = (props: any) => {
     const toggleMenu = () => setShow(!show);
     const location = useLocation();
 
-    const user: any = JSON.parse(localStorage.getItem("user") || "{}");
-    // console.log(user);
+    const raw = localStorage.getItem('user');
+
+    // handle the three “empty” cases: null, undefined value, or literal "undefined"
+    const user = raw && raw !== 'undefined' ? JSON.parse(raw) : null;
 
     const navigate = useNavigate();
     const handleLogout = () => {
