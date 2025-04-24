@@ -1,0 +1,13 @@
+This is a Grocery Shopping app which includes functionalities such as registration, login, products page, wishlist, 
+cart page, etc.
+
+Below is the some of the features of the app.
+
+1. We can add/delete the product.
+2. The product can be added to the wishlist as well as to the cart.
+3. Control the quantity of the product in the cart section.
+4. The user can also perform CRUD operations with the category of the item.
+5. User section will display all the registered user from the database.
+
+We have created various controllers such as CartController, CategoryController, ItemController, OfferController, etc.
+Similarly various models for the above controllers.
